@@ -6,7 +6,7 @@
 
 * Егор Соловьев (телеграм @esolovev, почта egorsolovev@gmail.com)
 * Елена Захарова (телеграм @thislena, почта 1583253@gmail.com)
-* Олег Сериков (телеграм @oserikov, почта ...)
+* Олег Сериков (телеграм @oserikov, почта srkvoa@gmail.com)
 
 Ассистенты: TODO
 
