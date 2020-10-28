@@ -8,7 +8,10 @@
 * Елена Захарова (телеграм @thislena, почта 1583253@gmail.com)
 * Олег Сериков (телеграм @oserikov, почта srkvoa@gmail.com)
 
-Ассистенты: TODO
+Ассистенты:
+
+* Марк Рофин (телеграм @Broccoliman)
+* Сергей Юхатсков (телеграм @uhnsa)
 
 Канал курса в телеграме (по кнопке Discuss открывается чат): https://t.me/joinchat/AAAAAEymnR1mrd2li16QjA
 
@@ -24,7 +27,7 @@
 ### 2 модуль
 | Номер  | Преподаватель  | Дата  | Тема  | Материалы |
 |---|---|---|---|---|
-| 01  | Егор  | 28.10.2020 9:30  | Функции и области видимости, встроенные типы данных, модули и пространство имен. Передача аргументов в функцию. | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/01.ipynb), видео ([часть 1](https://drive.google.com/file/d/1QAPgeZOhrxD6_cUgz8XiZnAkai-YTB5A/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1vIe0r498J2Gc3knR0lJtauf1SaypiERy/view?usp=sharing)) |
+| 01  | Егор  | 28.10.2020 9:30  | Функции и области видимости, встроенные типы данных, модули и пространство имен. Передача аргументов в функцию. | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/01.ipynb), [тетрадка после семинара](https://github.com/esolovev/ling2020/blob/main/lectures/01_done.ipynb), видео ([часть 1](https://drive.google.com/file/d/1QAPgeZOhrxD6_cUgz8XiZnAkai-YTB5A/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1vIe0r498J2Gc3knR0lJtauf1SaypiERy/view?usp=sharing)) |
 | 02  | Егор  | 02.11.2020 14:30 (в зуме) |  Модели данных и вычислений. | 
 
 * Секретный доклад от Олега.
