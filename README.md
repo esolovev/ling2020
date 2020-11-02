@@ -28,7 +28,7 @@
 | Номер  | Преподаватель  | Дата  | Тема  | Материалы |
 |---|---|---|---|---|
 | 01  | Егор  | 28.10.2020 9:30  | Функции и области видимости, встроенные типы данных, модули и пространство имен. Передача аргументов в функцию. | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/01.ipynb), [тетрадка после семинара](https://github.com/esolovev/ling2020/blob/main/lectures/01_done.ipynb), видео ([часть 1](https://drive.google.com/file/d/1QAPgeZOhrxD6_cUgz8XiZnAkai-YTB5A/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1vIe0r498J2Gc3knR0lJtauf1SaypiERy/view?usp=sharing)) |
-| 02  | Егор  | 02.11.2020 14:40 (в зуме) |  Теория алгоритмов. Вычислительная модель. Языки программирования.  | 
+| 02  | Егор  | 02.11.2020 14:40 (в зуме) |  Теория алгоритмов. Вычислительная модель. Языки программирования.  | [Слайды](https://github.com/esolovev/ling2020/blob/main/lectures/02.pdf), видео ([часть 1](https://drive.google.com/file/d/1atxUArAZsk9PcDD9dr7JAAueQqbKMZPH/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1252X6rILwbzpP3eW7fyWLT1u_8hhH_4s/view?usp=sharing))
 | 03 | Олег | 06.11.2020 11:10 | Linux, bash и их друзья. | 
 | 04 | Олег | 09.11.2020 14:40 (в зуме) | Задача сортировки массива. Наивные и квадратичные алгоритмы сортировки. Сложность алгоритмов. Устойчивость сортировок и дополнительные затраты на память. | 
 | 05 | Олег | 11.11.2020 9:30 | Linux, bash и их друзья. | 
