@@ -35,11 +35,11 @@
 | 06 | Олег | 13.11.2020 11:10 | Задача сортировки массива. Наивные и квадратичные алгоритмы сортировки. Сложность алгоритмов. Бинарный поиск. |
 | 07 | Егор | 18.11.2020 9:30 | Декораторы | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/07.ipynb), видео ([часть 1](https://drive.google.com/file/d/1T_ejpBO_o-CxDwA4djDTJejCRDOrTBy3/view?usp=sharing), [часть 2](https://drive.google.com/file/d/16F1SspDp_mrzO1YFdPQxWDJ4XaXrvaFq/view?usp=sharing))
 | 08 | Олег | 23.11.2020 11:10 | О сложности ещё раз. Устойчивость сортировок и дополнительные затраты на память. Принцип «разделяй и властвуй». Сортировка слиянием. Быстрая сортировка. |
-| 09 | Лена | 25.11.2020 9:30 | Класс, объект. Конструктор и деструктор. | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/13.ipynb), [выполненная тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/13_done.ipynb), видео [часть 1](https://drive.google.com/file/d/16d_NZK2A3x8bS7MiA5paxExHovQAWOLK/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1356hf6Bp6RN-NcVWQtEUGK0xKvO-QBZg/view?usp=sharing)
-| 10 | Лена | 02.12.2020 9:30 | Композиция и агрегация. Абстракция данных, инкапсуляция, наследование, полиморфизм.|
+| 09 | Лена | 25.11.2020 9:30 | Класс, объект. Конструктор и деструктор. | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/09.ipynb), [выполненная тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/09_done.ipynb), видео [часть 1](https://drive.google.com/file/d/16d_NZK2A3x8bS7MiA5paxExHovQAWOLK/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1356hf6Bp6RN-NcVWQtEUGK0xKvO-QBZg/view?usp=sharing)
+| 10 | Лена | 02.12.2020 9:30 | Композиция и агрегация. Абстракция данных, инкапсуляция, наследование, полиморфизм.| [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/10.ipynb), [выполненная тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/10_done.ipynb), видео [часть 1](https://drive.google.com/file/d/1W0v8O389Sp45VzbPSXRGEJqJB2MANxVd/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1Tfh0nCgkIAVYsMcUAj3nFpCce5V8FnTd/view?usp=sharing)
 | 11 | Олег | TBA | Принцип «разделяй и властвуй». Сортировка слиянием. Быстрая сортировка. Бинарный поиск. |
 | 12 | Олег | TBA | Принцип «разделяй и властвуй». Сортировка слиянием. Быстрая сортировка. Бинарный поиск. |
-| 13 | Лена | | Перегрузка операторов. Исключения. |
+| 13 | Лена | 09.12.2020 9:30| Еще ООП|
 | 14 | Егор | TBA | Абстрактный тип данных. Очередь, стек, связный список, массив, очередь с приоритетом. |
 | 15 | Лена | TBA | Перегрузка операторов. Исключения. |
 | 16 | Егор | TBA | Абстрактный тип данных. Очередь, стек, связный список, массив, очередь с приоритетом. |
