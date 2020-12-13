@@ -114,8 +114,11 @@ def get_weekend_recommendation():
         next_saturday = d.strftime('%Y-%m-%d')
         next_sunday = (d + datetime.timedelta(1)).strftime('%Y-%m-%d')
 
-        mean_temp_next_weekend = all_forecasts[(all_forecasts['date'] == next_saturday) | (all_forecasts['date'] == next_sunday)].groupby('city')['max_temp'].mean()
-        best_cities = list(mean_temp_next_weekend[mean_temp_next_weekend == mean_temp_next_weekend.max()].index)
+        mean_max_temp_next_weekend = all_forecasts[(all_forecasts['date'] == next_saturday) | (all_forecasts['date'] == next_sunday)].groupby('city')['max_temp'].mean()
+        mean_min_temp_next_weekend = all_forecasts[(all_forecasts['date'] == next_saturday) | (all_forecasts['date'] == next_sunday)].groupby('city')['min_temp'].mean()
+        mean_temp_next_weekend = pd.concat([mean_max_temp_next_weekend, mean_min_temp_next_weekend], axis=1)
+        mean_temp_next_weekend['mean_temp'] = mean_temp_next_weekend.loc[:, 'max_temp':'min_temp'].mean(axis=1)
+        best_cities = list(mean_temp_next_weekend[mean_temp_next_weekend['mean_temp'] == mean_temp_next_weekend['mean_temp'].max()].index)
 
         return best_cities
 
@@ -164,7 +167,7 @@ def get_weekend_recommendation():
 
     cheapest_tickets = find_cheapest_ticket(best_cities)
 
-    print('Как москвичу провести следующие выходные, чтобы было потеплее?')
+    print('Где москвичу провести следующие выходные, чтобы было потеплее?')
     print()
     if len(cheapest_tickets) == 1 and 'price' not in cheapest_tickets[0]:
         print('Можно остаться в Москве')
