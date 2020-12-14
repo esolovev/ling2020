@@ -119,6 +119,9 @@ def get_weekend_recommendation():
         mean_temp_next_weekend = pd.concat([mean_max_temp_next_weekend, mean_min_temp_next_weekend], axis=1)
         mean_temp_next_weekend['mean_temp'] = mean_temp_next_weekend.loc[:, 'max_temp':'min_temp'].mean(axis=1)
         best_cities = list(mean_temp_next_weekend[mean_temp_next_weekend['mean_temp'] == mean_temp_next_weekend['mean_temp'].max()].index)
+        # Я решил, что возможна ситуация, когда в нескольких городах средняя температура на выходных максимальна,
+        # поэтому эта функция возвращает список городов, а затем рекомендации выдаются для каждого из них (если их
+        # несколько)
 
         return best_cities
 
