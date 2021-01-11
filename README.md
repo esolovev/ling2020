@@ -40,7 +40,7 @@
 | 11 | Олег | 04.12.2020 11:10 | Принцип «разделяй и властвуй». `zip`, `all`, `list comprehension`, Бинарная сортировка. Сортировка слиянием. Быстрая сортировка. TimSort. | [материалы](https://drive.google.com/drive/folders/1o1HdMktoGgsKgTqFXPV05JordAjEj-iD) 
 | 12 | Лена | 09.12.2020 9:30| Подробнее про наследование, подробнее про super, декоратор @property. | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/12.ipynb), [выполненная тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/12_done.ipynb), видео [часть 1](https://drive.google.com/file/d/1FnNIOj7EKXmCjjNODKDwpBkSzFBKqi22/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1MamEgRScDzrbRZ_KvwUt6TWEqJMCy254/view?usp=sharing), [копия формы с самостоятельной](https://forms.gle/e8RSnf4nPrNrrBk79)
 | 13 | Олег | 11.12.2020 11:10 | Принцип «разделяй и властвуй». Сортировка слиянием. Быстрая сортировка. Бинарный поиск. |
-| 14 | Олег | 12.12.2020 09:30 | |
+| 14 | Олег | 12.12.2020 09:30 | [Видео](https://drive.google.com/file/d/1Z_hOyC2OT5TIFPZaA2OszYIrSO5SKq57/view?usp=sharing)|
 | 15 | Егор | 16.12.2020 | Исключения. | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/15.ipynb), [видео](https://drive.google.com/file/d/1hmemXzV7f14QClU3enMMyb9kULXb3uqU/view?usp=sharing)
 | 16 | Егор | 18.12.2020 | Итераторы и генераторы. Перегрузка операторов. | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/16.ipynb), [видео](https://drive.google.com/file/d/1Da3KZvkWoQhUW1xrQQZPuHX6xVK3bNGt/view?usp=sharing)
 
