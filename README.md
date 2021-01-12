@@ -16,7 +16,7 @@
 Канал курса в телеграме (по кнопке Discuss открывается чат): https://t.me/joinchat/AAAAAEymnR1mrd2li16QjA
 
 
-Табличка с оценками: TODO
+Табличка с оценками: https://docs.google.com/spreadsheets/d/1nBVIsENqn4zKAu4_PEaEdK-DCVeYWzPcoSPmVqPIztA/edit#gid=0
 
 Анонимная форма для предложений по курсу: https://forms.gle/hX9Uxq7mK2bXo5Tt5
 
