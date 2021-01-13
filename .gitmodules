@@ -1,0 +1,3 @@
+[submodule "hw/hw-sorts"]
+	path = hw/hw-sorts
+	url = https://github.com/oserikov/py-3k-hw1.git

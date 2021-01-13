@@ -16,7 +16,7 @@
 Канал курса в телеграме (по кнопке Discuss открывается чат): https://t.me/joinchat/AAAAAEymnR1mrd2li16QjA
 
 
-Табличка с оценками: TODO
+Табличка с оценками: https://docs.google.com/spreadsheets/d/1nBVIsENqn4zKAu4_PEaEdK-DCVeYWzPcoSPmVqPIztA/edit#gid=0
 
 Анонимная форма для предложений по курсу: https://forms.gle/hX9Uxq7mK2bXo5Tt5
 
@@ -38,22 +38,28 @@
 | 09 | Лена | 25.11.2020 9:30 | Класс, объект. Конструктор и деструктор. | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/09.ipynb), [выполненная тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/09_done.ipynb), видео [часть 1](https://drive.google.com/file/d/16d_NZK2A3x8bS7MiA5paxExHovQAWOLK/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1356hf6Bp6RN-NcVWQtEUGK0xKvO-QBZg/view?usp=sharing)
 | 10 | Лена | 02.12.2020 9:30 | Композиция и агрегация. Абстракция данных, инкапсуляция, наследование, полиморфизм.| [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/10.ipynb), [выполненная тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/10_done.ipynb), видео [часть 1](https://drive.google.com/file/d/1W0v8O389Sp45VzbPSXRGEJqJB2MANxVd/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1Tfh0nCgkIAVYsMcUAj3nFpCce5V8FnTd/view?usp=sharing)
 | 11 | Олег | 04.12.2020 11:10 | Принцип «разделяй и властвуй». `zip`, `all`, `list comprehension`, Бинарная сортировка. Сортировка слиянием. Быстрая сортировка. TimSort. | [материалы](https://drive.google.com/drive/folders/1o1HdMktoGgsKgTqFXPV05JordAjEj-iD) 
-| 12 | Лена | 09.12.2020 9:30| Еще про наследование. Статические методы и методы классов. |
+| 12 | Лена | 09.12.2020 9:30| Подробнее про наследование, подробнее про super, декоратор @property. | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/12.ipynb), [выполненная тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/12_done.ipynb), видео [часть 1](https://drive.google.com/file/d/1FnNIOj7EKXmCjjNODKDwpBkSzFBKqi22/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1MamEgRScDzrbRZ_KvwUt6TWEqJMCy254/view?usp=sharing), [копия формы с самостоятельной](https://forms.gle/e8RSnf4nPrNrrBk79)
 | 13 | Олег | 11.12.2020 11:10 | Принцип «разделяй и властвуй». Сортировка слиянием. Быстрая сортировка. Бинарный поиск. |
-| 14 | Олег | 12.12.2020 09:30 | |
-| 15 | Егор | 16.12.2020 | Итераторы и генераторы. Перегрузка операторов. Исключения. |
-| 16 | Егор | 18.12.2020 | Итераторы и генераторы. Перегрузка операторов. Исключения. |
-| 17 | Егор | TBA | Абстрактный тип данных. Очередь, стек, связный список, массив, очередь с приоритетом. |
-| 18 | Лена | TBA | Абстрактные классы (модуль abc). |
-| 19 | Егор | TBA | Абстрактный тип данных. Очередь, стек, связный список, массив, очередь с приоритетом. |
-| 20 | Лена | TBA | Метаклассы. |
-| 21 | Егор | TBA | Абстрактный тип данных. Очередь, стек, связный список, массив, очередь с приоритетом. |
-| 22 | Егор | TBA | Ассоциативный массив. Хэш-таблицы, словари, множества.|
-| 23 | Егор | TBA | Ассоциативный массив. Хэш-таблицы, словари, множества.|
-
+| 14 | Олег | 12.12.2020 09:30 | [Видео](https://drive.google.com/file/d/1Z_hOyC2OT5TIFPZaA2OszYIrSO5SKq57/view?usp=sharing)|
+| 15 | Егор | 16.12.2020 | Исключения. | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/15.ipynb), [видео](https://drive.google.com/file/d/1hmemXzV7f14QClU3enMMyb9kULXb3uqU/view?usp=sharing)
+| 16 | Егор | 18.12.2020 | Итераторы и генераторы. Перегрузка операторов. | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/16.ipynb), [видео](https://drive.google.com/file/d/1Da3KZvkWoQhUW1xrQQZPuHX6xVK3bNGt/view?usp=sharing)
 
 ### 3 модуль
 
+| Номер  | Преподаватель  | Дата  | Тема  | Материалы |
+|---|---|---|---|---|
+| 17 | Егор | 11.01.2021 11:10 | Абстрактный тип данных. Очередь, стек, связный список, массив, очередь с приоритетом. | [Слайды](https://github.com/esolovev/ling2020/blob/main/lectures/17.pdf), [видео](https://drive.google.com/file/d/1B-5V2xeliZcoAWr6AhtD86CAHxZ98wBK/view?usp=sharing)
+| 18 | Лена | 13.01.2021 11:10 | Абстрактные классы (модуль abc). Статические методы и методы классов. |
+| 19 | Егор | 15.01.2021 09:30 | Абстрактный тип данных. Очередь, стек, связный список, массив, очередь с приоритетом. |
+| 20 | Егор | 18.01.2021 11:10 | Обсуждаем ДЗ-2 + мини-лекция на тему "Как жить без регулярок или функции для работы со строками"  |
+| 21 | Лена | TBA | Метаклассы. |
+| 22 | Егор | TBA | Абстрактный тип данных. Очередь, стек, связный список, массив, очередь с приоритетом. |
+| 23 | Егор | TBA | Ассоциативный массив. Хэш-таблицы, словари, множества.|
+| 24 | Егор | TBA | Ассоциативный массив. Хэш-таблицы, словари, множества.|
+
+А ещё:
+* SQL.
+* Многопоточность в Python и вообще.
 * Ассоциативный массив. Хэш-таблицы, словари, множества. Модуль collections в Python.
 * Юнит-тесты: как и зачем писать. Mock. Coverage.
 * Графы. Базовые алгоритмы на графах: поиск в глубину, поиск в ширину; алгоритм Дейкстры; топологическая сортировка; алгоритм Прима (модуль networkx). 
@@ -63,8 +69,7 @@
 * Линейные модели. Линейная классификация.
 * Отбор признаков.
 * Метрики качества. Кросс-валидация. Многоклассовая классификация, несбалансированные данные.
-* SQL.
-* Многопоточность в Python и вообще.
+
 
 
 ### 4 модуль
@@ -85,6 +90,7 @@
 |---|---|---|---|
 | 01  | Linux, bash  | ?  |  |
 | 02  | Работа с API, скрапинг, typing.  | 13 декабря 23:59  | [02.ipynb](https://github.com/esolovev/ling2020/blob/main/hw/02.ipynb)  |
+| 03  | Сортировки, визуализация деревьев  | 30 января 23:59  | [ссылка](https://github.com/oserikov/py-3k-hw1/blob/master/README.md) |
 
 ## Оценивание
 
