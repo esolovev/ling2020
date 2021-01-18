@@ -51,7 +51,7 @@
 | 17 | Егор | 11.01.2021 11:10 | Абстрактный тип данных. Очередь, стек, связный список, массив, очередь с приоритетом. | [Слайды](https://github.com/esolovev/ling2020/blob/main/lectures/17.pdf), [видео](https://drive.google.com/file/d/1B-5V2xeliZcoAWr6AhtD86CAHxZ98wBK/view?usp=sharing)
 | 18 | Лена | 13.01.2021 11:10 | Абстрактные классы (модуль abc). Статические методы и методы классов. | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/18.ipynb), [выполненная тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/18_done.ipynb), видео ([часть 1](https://drive.google.com/file/d/1IRJSHnVZd5SlNADiww3upRcLuQpI57Rx/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1CsIgF-YzDKp3BCS83OFx8eWYrHKm3xeu/view?usp=sharing))
 | 19 | Егор | 15.01.2021 09:30 | Абстрактный тип данных. Очередь, стек, связный список, массив, очередь с приоритетом. | [видео](https://drive.google.com/file/d/1YvrP_txDNt9BqfS5NOzVaUkSU-LxRkA9/view?usp=sharing), [код, написанный на паре](https://github.com/esolovev/ling2020/blob/main/lectures/19.py)
-| 20 | Егор | 18.01.2021 11:10 | Обсуждаем ДЗ-2 + мини-лекция на тему "Как жить без регулярок или функции для работы со строками"  |
+| 20 | Егор | 18.01.2021 11:10 | Обсуждаем ДЗ-2 + мини-лекция на тему "Как жить без регулярок или функции для работы со строками"  | [видео](https://drive.google.com/file/d/1G1PIAqGjZd21uAvijCezg25ktB28pt1U/view?usp=sharing), 
 | 21 | Лена | TBA | Метаклассы. |
 | 22 | Егор | TBA | Абстрактный тип данных. Очередь, стек, связный список, массив, очередь с приоритетом. |
 | 23 | Егор | TBA | Ассоциативный массив. Хэш-таблицы, словари, множества.|
