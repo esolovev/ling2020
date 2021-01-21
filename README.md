@@ -52,10 +52,10 @@
 | 18 | Лена | 13.01.2021 11:10 | Абстрактные классы (модуль abc). Статические методы и методы классов. | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/18.ipynb), [выполненная тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/18_done.ipynb), видео ([часть 1](https://drive.google.com/file/d/1IRJSHnVZd5SlNADiww3upRcLuQpI57Rx/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1CsIgF-YzDKp3BCS83OFx8eWYrHKm3xeu/view?usp=sharing))
 | 19 | Егор | 15.01.2021 09:30 | Абстрактный тип данных. Очередь, стек, связный список, массив, очередь с приоритетом. | [видео](https://drive.google.com/file/d/1YvrP_txDNt9BqfS5NOzVaUkSU-LxRkA9/view?usp=sharing), [код, написанный на паре](https://github.com/esolovev/ling2020/blob/main/lectures/19.py)
 | 20 | Егор | 18.01.2021 11:10 | Обсуждаем ДЗ-2 + мини-лекция на тему "Как жить без регулярок или функции для работы со строками"  | [видео](https://drive.google.com/file/d/1G1PIAqGjZd21uAvijCezg25ktB28pt1U/view?usp=sharing)
-| 21 | Лена | TBA | Метаклассы. |
-| 22 | Егор | TBA | Абстрактный тип данных. Очередь, стек, связный список, массив, очередь с приоритетом. |
-| 23 | Егор | TBA | Ассоциативный массив. Хэш-таблицы, словари, множества.|
-| 24 | Егор | TBA | Ассоциативный массив. Хэш-таблицы, словари, множества.|
+| 21 | Лена | 20.01.2021 11:10 | Метаклассы. | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/18_done.ipynb), [выполненная тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/20.ipynb), видео ([часть 1](https://drive.google.com/file/d/1fffxOpMG4HjY7qwezGjpm_ZuNc8jlYe_/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1qRZJuEu3YFv4Rw4GWkdd42TIeDaTon7J/view?usp=sharing), [часть 3](https://drive.google.com/file/d/14o0-YwmNIMKQcwOpBnj1_3u5Yt1igIYf/view?usp=sharing) - маленькая)
+| 22 | Егор | 22.01 9:30 | Абстрактный тип данных. Очередь, стек, связный список, массив, очередь с приоритетом. |
+| 23 | Лена | 25.01 11:10 | Тестирование. Юнит-тесты |
+| 24 | Егор | 27.01 11:10 | Ассоциативный массив. Хэш-таблицы, словари, множества.|
 
 А ещё:
 * SQL.
