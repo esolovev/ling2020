@@ -54,9 +54,9 @@
 | 20 | Егор | 18.01.2021 11:10 | Обсуждаем ДЗ-2 + мини-лекция на тему "Как жить без регулярок или функции для работы со строками"  | [видео](https://drive.google.com/file/d/1G1PIAqGjZd21uAvijCezg25ktB28pt1U/view?usp=sharing)
 | 21 | Лена | 20.01.2021 11:10 | Метаклассы. | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/18_done.ipynb), [выполненная тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/20.ipynb), видео ([часть 1](https://drive.google.com/file/d/1fffxOpMG4HjY7qwezGjpm_ZuNc8jlYe_/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1qRZJuEu3YFv4Rw4GWkdd42TIeDaTon7J/view?usp=sharing), [часть 3](https://drive.google.com/file/d/14o0-YwmNIMKQcwOpBnj1_3u5Yt1igIYf/view?usp=sharing) - маленькая)
 | 22 | Егор | 22.01 9:30 | Абстрактный тип данных. Очередь, стек, связный список, массив, очередь с приоритетом. | [видео](https://drive.google.com/file/d/1JcV8B7w4OJrMeM_ETQKMjYKPYd8ZR2eh/view?usp=sharing), [код связного списка](https://github.com/esolovev/ling2020/blob/main/lectures/22.py)
-| 23 | Лена | 25.01 11:10 | Тестирование. Юнит-тесты |
+| 23 | Лена | 25.01 11:10 | Метаклассы (продолжение). dataclasses. Введение в тестирование. |
 | 24 | Егор | 27.01 11:10 | Ассоциативный массив. Хэш-таблицы, словари, множества. |
-| 25 | Лена | 29.01 9:30	| Юнит-тесты: как и зачем писать. Mock. Coverage |
+| 25 | Лена | 29.01 9:30	| Юнит-тесты: как правильно писать. |
 | 26 | Егор | 01.02 11:10 | Ассоциативный массив. Хэш-таблицы, словари, множества. |
 | 27 | Лена | 03.02 11:10 |	Юнит-тесты: как и зачем писать. Mock. Coverage. Рассказать про CI/CD |
 | 28 | Егор | 05.02 9:30	| SQL		|
