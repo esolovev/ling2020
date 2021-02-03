@@ -19,7 +19,7 @@
 * через консоль (если вы ценитель)
 * через pgAdmin (он обычно поставляется вместе с постгресом под винду/мак)
 * поставить DataGrip https://www.jetbrains.com/datagrip/ (ваша студенческая лицензия распространяется и на него) - это удобный инструмент для хождения в различные БД, не только постгрес
-* (**рекомендуемая опция**) использовать Data Sources в Pycharm: https://www.jetbrains.com/help/pycharm/connecting-to-a-database.html#connect-to-postgresql-database (по сути, это DataGrip, встроенный в Pycharm)
+* (**рекомендуемая опция**) использовать Data Sources в Pycharm: https://www.jetbrains.com/help/pycharm/connecting-to-a-database.html#connect-to-postgresql-database (по сути, это DataGrip, встроенный в Pycharm). Чтобы все получилось, нужно установить плагин "Database Tools and SQL".
 
 
 Итого план такой: 
