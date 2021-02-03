@@ -38,7 +38,7 @@
 
 
 ```
-ccreate table users
+create table users
 (
     id uuid primary key, -- уникальный id пользователя
     created timestamp -- время регистрации пользователя
