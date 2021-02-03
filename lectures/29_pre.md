@@ -54,7 +54,7 @@ create table orders
 ```
 
 
-2. Импортируйте файлы users.csv и orders.csv (именно в таком порядке) в базу через DataGrip (https://www.jetbrains.com/datagrip/features/importexport.html https://stackoverflow.com/a/52148057). Не забудьте про галочку First row is header.
+2. Импортируйте файлы [users.csv](https://raw.githubusercontent.com/esolovev/ling2020/main/lectures/29_users.csv) и [orders.csv](https://raw.githubusercontent.com/esolovev/ling2020/main/lectures/29_orders.csv) (именно в таком порядке) в базу через DataGrip (https://www.jetbrains.com/datagrip/features/importexport.html https://stackoverflow.com/a/52148057). Не забудьте про галочку First row is header.
 
 ![](https://i.imgur.com/YhmSsaN.png)
 
