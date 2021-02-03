@@ -24,7 +24,7 @@
 
 Итого план такой: 
 
-1. Поставьте PostgreSQL (на винду https://info-comp.ru/sisadminst/684-install-postgresql-11-on-windows.html, для мака можно использовать Interactive Installer by EDB https://www.postgresql.org/download/macosx/). У вас на компьютере запустится сервер баз данных, к которому нельзя подключиться извне, но с ним можно играться на этом же компьютере, что вы и будете делать. Где-то в процессе установки вы должны были установить пароль для пользователя "postgres”  вашего сервера базы данных. Вместе с ним была создана база postgres, к которой этот пользователь имеет полный доступ.
+1. Поставьте PostgreSQL (лучше всего использовать Interactive Installer by EDB - для винды https://www.postgresql.org/download/windows/, для мака https://www.postgresql.org/download/macosx/). У вас на компьютере запустится сервер баз данных, к которому нельзя подключиться извне, но с ним можно играться на этом же компьютере, что вы и будете делать. Все параметры при установке можно оставить как есть, но важно запомнить пароль для пользователя "postgres”  вашего сервера базы данных, который вам нужно будет придумать. Вместе с ним была создана база postgres, к которой этот пользователь имеет полный доступ.
 2. Подключаемся к вашей базе данных (https://www.jetbrains.com/help/pycharm/connecting-to-a-database.html#connect-to-postgresql-database, нужно указать Host=localhost, Port=5432, User=postgres, Password=ваш пароль).
 3. Теперь вы можете выполнить какой-нибудь запрос к вашей БД (https://www.jetbrains.com/help/datagrip/run-a-query.html), например, “select 1;”) и начинать решать задачи.
 
