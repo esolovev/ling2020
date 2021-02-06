@@ -57,7 +57,7 @@
 | 25 | Лена | 01.02 11:10	| Юнит-тесты: как правильно писать. | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/25.ipynb), [выполненная тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/25_done.ipynb), видео ([часть 1](https://drive.google.com/file/d/1bqk7Fd8UDbK-NviPml-dsF4pU3BeLfo1/view?usp=sharing), [часть 2](https://drive.google.com/file/d/1sYDGLpgLma8Qnz2eTsHZ2k2FTJsPdsLR/view?usp=sharing))
 | 26 | Егор | 03.02 11:10 | Хеш-таблицы: методы разрешения коллизий. Хеширование. Хеширование в Python. | [Видео](https://drive.google.com/file/d/1zG-xCQzP_zW4t10a4-SWanHxPb_u7ORY/view?usp=sharing), [слайды про все рассмотренные структуры данных](https://github.com/esolovev/ling2020/blob/main/lectures/26.pdf)
 | 27 | Лена | 05.02 9:30 |	Юнит-тесты: как и зачем писать. Mock. |
-| 28 | Егор |	06.02 11:10 |	SQL |
+| 28 | Егор |	06.02 11:10 |	SQL: синтаксис | [Видео](https://youtu.be/F7mvfEy35FU)
 | 29 | Егор |	08.02 11:10 |	SQL |
 | 30 | Егор |	10.02 11:10 |	SQL |
 | 31 | Егор |	12.02 9:30 |	Паралелльное программирование. |
