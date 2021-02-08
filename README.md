@@ -58,7 +58,7 @@
 | 26 | Егор | 03.02 11:10 | Хеш-таблицы: методы разрешения коллизий. Хеширование. Хеширование в Python. | [Видео](https://drive.google.com/file/d/1zG-xCQzP_zW4t10a4-SWanHxPb_u7ORY/view?usp=sharing), [слайды про все рассмотренные структуры данных](https://github.com/esolovev/ling2020/blob/main/lectures/26.pdf)
 | 27 | Лена | 05.02 9:30 |	Юнит-тесты: как и зачем писать. Mock. |
 | 28 | Егор |	06.02 11:10 |	SQL: синтаксис | [Видео](https://youtu.be/F7mvfEy35FU), [слайды](https://github.com/esolovev/ling2020/blob/main/lectures/28.pdf)
-| 29 | Егор |	08.02 11:10 |	SQL |
+| 29 | Егор |	08.02 11:10 |	SQL: оконные функции, транзакции |[Видео](https://youtu.be/sfEeHApiZwE), [слайды](https://github.com/esolovev/ling2020/blob/main/lectures/29.pdf), [задачи](https://github.com/esolovev/ling2020/blob/main/lectures/29_pre.md)
 | 30 | Егор |	10.02 11:10 |	SQL |
 | 31 | Егор |	12.02 9:30 |	Паралелльное программирование. |
 | 32 | Олег |	13.02 11:10 |	Алгоритмы на графах |
