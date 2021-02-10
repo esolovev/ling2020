@@ -59,7 +59,7 @@
 | 27 | Лена | 05.02 9:30 |	Юнит-тесты: как и зачем писать. Mock. |
 | 28 | Егор |	06.02 11:10 |	SQL: синтаксис | [Видео](https://youtu.be/F7mvfEy35FU), [слайды](https://github.com/esolovev/ling2020/blob/main/lectures/28.pdf)
 | 29 | Егор |	08.02 11:10 |	SQL: оконные функции, транзакции |[Видео](https://youtu.be/sfEeHApiZwE), [слайды](https://github.com/esolovev/ling2020/blob/main/lectures/29.pdf), [задачи](https://github.com/esolovev/ling2020/blob/main/lectures/29_pre.md)
-| 30 | Егор |	10.02 11:10 |	SQL |
+| 30 | Егор |	10.02 11:10 |	SQL: реляционные базы данных, решаем задачу про сессии | [Видео](https://youtu.be/k6BjhGJx8vw), [слайды](https://github.com/esolovev/ling2020/blob/main/lectures/30.pdf), [решение задачи про сессии](https://github.com/esolovev/ling2020/blob/main/lectures/30_sessions.sql)
 | 31 | Егор |	12.02 9:30 |	Паралелльное программирование. |
 | 32 | Олег |	13.02 11:10 |	Алгоритмы на графах |
 | 33 | Олег |	15.02 11:10 |	Алгоритмы на графах |
