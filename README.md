@@ -101,6 +101,7 @@
 | 01  | Linux, bash  | ?  |  |
 | 02  | Работа с API, скрапинг, typing.  | 13 декабря 23:59  | [02.ipynb](https://github.com/esolovev/ling2020/blob/main/hw/02.ipynb)  |
 | 03  | Сортировки, визуализация деревьев  | 30 января 23:59  | [ссылка](https://github.com/oserikov/py-3k-hw1/blob/master/README.md) |
+| 04  | Классы  | 27 февраля 23:59  | [ссылка](https://contest.yandex.ru/contest/25157/enter) |
 
 ## Оценивание
 
