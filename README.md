@@ -103,7 +103,7 @@
 | 02  | Работа с API, скрапинг, typing.  | 13 декабря 23:59  | [02.ipynb](https://github.com/esolovev/ling2020/blob/main/hw/02.ipynb)  |
 | 03  | Сортировки, визуализация деревьев  | 30 января 23:59  | [ссылка](https://github.com/oserikov/py-3k-hw1/blob/master/README.md) |
 | 04  | Классы  | 27 февраля 23:59  | [ссылка](https://contest.yandex.ru/contest/25157/enter) |
-
+| 05  | Предобработка данных  | 9 марта 23:59 | [ссылка](hw/hw-dataframe) |
 ## Оценивание
 
 Полная программа дисциплины доступна [тут](https://docs.google.com/document/d/1_h-Stvkk6zwTyXq5uUuqyTheJ6kxLV26OAdGrC6Gu-8/edit?usp=sharing).
