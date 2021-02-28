@@ -1,3 +1,6 @@
 [submodule "hw/hw-sorts"]
 	path = hw/hw-sorts
 	url = https://github.com/oserikov/py-3k-hw1.git
+[submodule "hw/hw-dataframe"]
+	path = hw/hw-dataframe
+	url = https://github.com/oserikov/py-3k-hw_ml_0.git
