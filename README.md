@@ -67,7 +67,7 @@
 | 35 | Олег |	20.02 11:10 |	признаки в машинном обучении и алгоритм KNN |
 | 36 | Олег |	22.02 11:10 |	Машинное обучение: задача линейной регрессии |
 | 37 | Егор |	24.02 11:10 |	Параллельное программирование |
-| 38 | Лена |	26.02 9:30 |	Как штырить в данные | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/38.ipynb), [выполненная тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/38_done.ipynb), видео: [часть 1](https://drive.google.com/file/d/15Eep_r24u1pcS9BXCxUpDg9xfc-3JUUZ/view?usp=sharing), [часть 2](https://drive.google.com/file/d/12LG6oXFel29l5UX4JkxX05McHOXDpyG_/view?usp=sharing),
+| 38 | Лена |	26.02 9:30 |	Как штырить в данные | [Тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/38.ipynb), [выполненная тетрадка](https://github.com/esolovev/ling2020/blob/main/lectures/38_done.ipynb), видео: [часть 1](https://drive.google.com/file/d/15Eep_r24u1pcS9BXCxUpDg9xfc-3JUUZ/view?usp=sharing), [часть 2](https://drive.google.com/file/d/12LG6oXFel29l5UX4JkxX05McHOXDpyG_/view?usp=sharing)
 | 39 | Олег |	27.02 11:10 |	Алгоритмы на графах 3. Алгоритмы на графах, продолжение. |
 | 40 | Олег |	01.03 11:10 |	Жадные алгоритмы. Динамическое программирование.|
 | 41 | Олег | 03.03 11:10 | Машинное обучение. метод градиентного спуска |
